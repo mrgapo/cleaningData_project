@@ -1,1 +1,2 @@
-# cleaningData_project
+# Coursera course Cleaning Data assignment
+
