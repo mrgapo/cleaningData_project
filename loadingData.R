@@ -34,6 +34,8 @@ newData1 <- newData1[,-grep("Activity", colnames(newData1), fixed = TRUE)]
 tmpCN <- colnames(newData1)
 tmpCN[grep("V2", tmpCN)] = "Activity"
 
+colnames(newData1) <- tmpCn
+
 
 Subject <- newData1$Subject
 Activity <- newData1$Activity

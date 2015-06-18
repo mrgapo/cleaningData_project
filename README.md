@@ -8,4 +8,9 @@ At first you need to have samsung data and extract them to **folder "UCI HAR Dat
 Define libraries are also needed:
 
  - data.table
- - dplyr)
+ 
+### How to run
+
+
+### Result
+Script will create new file "result.txt" where it will store result 
